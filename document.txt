@@ -1,0 +1,4 @@
+color select :
+    - primary color : #FF6A5C
+    - secondary color : #056571
+    - optional color : #1FB58F
